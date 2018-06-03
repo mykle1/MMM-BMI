@@ -1,0 +1,22 @@
+{
+  "name": "mmm-BMI",
+  "version": "1.0.0",
+  "description": "Get your Body Mass Index",
+  "main": "MMM-BMI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-BMI.git"
+  },
+  "author": "Mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-BMI/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-BMI#readme",
+  "dependencies": {
+    "bmi-calc": "2.0.0"
+  }
+}
