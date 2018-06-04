@@ -5,9 +5,25 @@
  */
 
 .MMM-BMI .header {
-  color: yellow;               /* Header color. Default is white. */
+  color: #62FF00;               /* Header color. */
 }
 
-.MMM-BMI .summary {
-  color: #62FF00;               /* summary color. Default is white. */
+.MMM-BMI .calc {
+  color: #62FF00;               /* calc color. */
+}
+
+.MMM-BMI .diagnosis {
+  color: #62FF00;               /* diagnosis color. */
+}
+
+.MMM-BMI .spacer {
+  color: #62FF00;               /* spacer color. */
+}
+
+.MMM-BMI .herCalc {
+  color: #62FF00;               /* herCalc color. */
+}
+
+.MMM-BMI .herDiagnosis {
+  color: #62FF00;               /* herDiagnosis color. */
 }

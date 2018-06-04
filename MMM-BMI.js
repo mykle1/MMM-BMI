@@ -56,7 +56,7 @@ Module.register("MMM-BMI", {
 
         if (this.config.useHeader != false) {
             var header = document.createElement("header");
-            header.classList.add("xsmall", "bright", "light");
+            header.classList.add("xsmall", "bright", "header");
             header.innerHTML = this.config.header;
             wrapper.appendChild(header);
         }
