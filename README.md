@@ -32,7 +32,7 @@ value's for your significant other.
 
 
 ## Config.js entry and options
-
+```
 {
     disabled: false,
     module: "MMM-BMI",
@@ -50,4 +50,4 @@ value's for your significant other.
         maxWidth: "350px",
     }
 },  
-	
+```	
