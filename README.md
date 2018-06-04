@@ -1,6 +1,6 @@
 ## MMM-BMI
 
-**Body Mass Index**
+**Body Mass Index Calculator**
 
 ## Piss off your wife or girlfriend
 
